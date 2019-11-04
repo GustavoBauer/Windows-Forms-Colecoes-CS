@@ -1,0 +1,10 @@
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\bin\Debug\Exercicio2.exe.config
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\bin\Debug\Exercicio2.exe
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\bin\Debug\Exercicio2.pdb
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\obj\Debug\Exercicio2.csprojAssemblyReference.cache
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\obj\Debug\Exercicio2.FormPrincipal.resources
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\obj\Debug\Exercicio2.Properties.Resources.resources
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\obj\Debug\Exercicio2.csproj.GenerateResource.cache
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\obj\Debug\Exercicio2.exe
+D:\Tecnico 2019\LP3\bim2\EntregaExsAula10v2\Exercicio2\obj\Debug\Exercicio2.pdb
